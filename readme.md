@@ -1,0 +1,1 @@
+Allt är logiskt
