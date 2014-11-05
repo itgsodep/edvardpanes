@@ -1,1 +1,3 @@
-put "hello"
+puts "hello"
+
+puts "hejsan"
